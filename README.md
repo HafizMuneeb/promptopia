@@ -18,17 +18,23 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## What I learned
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+In this project  I learned the following things:
+- Complete CRUD application using next.js 13.4
+- Exploring new features of next js and react
+- For designing use tailwind css
+- Next.js 13 App Folder Structure
+- Next.js 13 Client Components vs Server Components
+- Next.js 13 File-based Routing (including dynamic and nested routes)
+- Next.js 13 page, layout, loading, and error Special Files
+- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
+- Next.js 13 Metadata and Search Engine Optimization (SEO)
+- Three ways to fetch data in Next.js:
+   - Server Side Rendering (SSR),
+   - Static Site Generation (SSG)
+   - Incremental Static Generation (ISR)
 
 ## Deploy on Vercel
+![promp](https://github.com/HafizMuneeb/promptopia/assets/124581370/08a4155d-59e7-48e7-aa8b-3a5f7967b831)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
